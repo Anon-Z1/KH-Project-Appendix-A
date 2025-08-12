@@ -34,8 +34,8 @@ MARVEL Segment
 |-------------|--------------|
 
 States File
-| n | Energy (cm-1) | g | J | Uncertainty (cm-1) | p |  e&#8203;/&#8203;f  | State | v | Lambda | Sigma | Omega | Ma/Ca | Energy Duo (cm-1) |
-|---|---------------|---|---|--------------------|---|---------------------|-------|---|--------|-------|-------|-------|-------------------|
+| n | Energy (cm-1) | g | J | Uncertainty (cm-1) | p |  e f  | State | v | Λ | Σ | Ω | Ma/Ca | Energy Duo (cm-1) |
+|---|---------------|---|---|--------------------|---|-------|-------|---|---|---|---|-------|-------------------|
 
 Partition Function
 | Temperature (K) | g |
